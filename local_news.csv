@@ -1,461 +1,534 @@
-,name,link,city,state
-0,The Juneau Empire,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AK_JE,Juneau,Alaska
-1,Anchorage Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AK_ADN,Anchorage,Alaska
-2,Fairbanks Daily News-Miner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AK_FDNM,Fairbanks,Alaska
-3,The Decatur Daily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_DD,Decatur,Ala.
-4,The Tuscaloosa News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_TN,Tuscaloosa,Ala.
-5,Dothan Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_DE,Dothan,Ala.
-6,TimesDaily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_TD,Florence,Ala.
-7,Montgomery Advertiser,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_MA,Montgomery,Ala.
-8,Opelika-Auburn News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_OAN,Opelika,Ala.
-9,Arkansas Democrat-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AR_ADG,Little Rock,Ark.
-10,The Sentinel-Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AR_SR,Hot Springs,Ark.
-11,The Baxter Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AR_BB,Mountain Home,Ark.
-12,The Daily Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_DC,Prescott,Ariz.
-13,The Kingman Daily Miner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_KDM,Kingman,Ariz.
-14,Today's News-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_TNH,Lake Havasu City,Ariz.
-15,Arizona Daily Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_ADS,Tucson,Ariz.
-16,The Arizona Republic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_AR,Phoenix,Ariz.
-17,Orange County Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_OCR,Santa Ana,Calif.
-18,Marin Independent Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MIJ,San Rafael,Calif.
-19,The Mercury News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MN,San Jose,Calif.
-20,The San Diego Union-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SDUT,San Diego,Calif.
-21,The Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TS,San Bernardino,Calif.
-22,The Santa Cruz Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SCS,Santa Cruz,Calif.
-23,The Epoch Times: Chinese Edition ,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_ET,San Francisco,Calif.
-24,San Francisco Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SFC,San Francisco,Calif.
-25,Ventura County Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_VCS,Ventura,Calif.
-26,East Bay Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_EBT,Walnut Creek,Calif.
-27,San Gabriel Valley Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SGVT,West Covina,Calif.
-28,The Sacramento Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SB,Sacramento,Calif.
-29,Visalia Times-Delta,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_VTD,Visalia,Calif.
-30,The Daily Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TDP,Victorville,Calif.
-31,Daily Breeze,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_DB,Torrance,Calif.
-32,Tulare Advance-Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TAR,Tulare,Calif.
-33,The Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TR,Stockton,Calif.
-34,Inland Valley Daily Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_IVDB,Ontario,Calif.
-35,Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_DN,Los Angeles,Calif.
-36,Los Angeles Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_LAT,Los Angeles,Calif.
-37,The Press-Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_PE,Riverside,Calif.
-38,Press-Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_PT,Long Beach,Calif.
-39,The Union,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TU,Grass Valley,Calif.
-40,Enterprise-Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_ER,Chico,Calif.
-41,The Fresno Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_FB,Fresno,Calif.
-42,Merced Sun-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MSS,Merced,Calif.
-43,La Opinión,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_LO,Los Angeles,Calif.
-44,The Daily Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_DP,Palo Alto,Calif.
-45,The Modesto Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MB,Modesto,Calif.
-46,Record Searchlight,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_RS,Redding,Calif.
-47,The Desert Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_DS,Palm Springs,Calif.
-48,Pasadena Star-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_PSN,Pasadena,Calif.
-49,Napa Valley Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_NVR,Napa,Calif.
-50,The Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MCH,Monterey,Calif.
-51,The Daily Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_DS,Grand Junction,Colo.
-52,Summit Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_SDN,Frisco,Colo.
-53,Longmont Times-Call,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_LTC,Longmont,Colo.
-54,Steamboat Pilot & Today,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_SPT,Steamboat Springs,Colo.
-55,Fort Collins Coloradoan,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_FCC,Fort Collins,Colo.
-56,Loveland Reporter Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_LRH,Loveland,Colo.
-57,Greeley Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_GT,Greeley,Colo.
-58,Daily Camera,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_DC,Boulder,Colo.
-59,The Durango Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_DH,Durango,Colo.
-60,The Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_TG,Colorado Springs,Colo.
-61,Cañon City Daily Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_CCDR,Cañon City,Colo.
-62,Colorado Daily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_CD,Boulder,Colo.
-63,The Denver Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_DP,Denver,Colo.
-64,The Day,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_TD,New London,Conn.
-65,Norwich Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_NB,Norwich,Conn.
-66,The Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_TA,Stamford,Conn.
-67,Record-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_RJ,Meriden,Conn.
-68,Republican-American,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_RA,Waterbury,Conn.
-69,Connecticut Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_CP,Bridgeport,Conn.
-70,Hartford Courant,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_HC,Hartford,Conn.
-71,The News-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_NT,Danbury,Conn.
-72,Greenwich Time,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_GT,Greenwich,Conn.
-73,The Washington Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=DC_WT,Washington,D.C.
-74,The Washington Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=DC_WP,Washington,D.C.
-75,The News Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=DE_NJ,Wilmington,Del.
-76,Tampa Bay Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_TIMES,St. Petersburg,Fla.
-77,The St. Augustine Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SAR,St. Augustine,Fla.
-78,Orlando Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_OS,Orlando,Fla.
-79,TBT*,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_TB,St. Petersburg,Fla.
-80,Sarasota Herald-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SHT,Sarasota,Fla.
-81,Press Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_VBPJ,Vero Beach,Fla.
-82,Star-Banner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SB,Ocala,Fla.
-83,The Palm Beach Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_PBP,West Palm Beach,Fla.
-84,The Villages Daily Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_VDS,The Villages,Fla.
-85,Tallahassee Democrat,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_TD,Tallahassee,Fla.
-86,The Stuart News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SN,Stuart,Fla.
-87,Pensacola News Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_PNJ,Pensacola,Fla.
-88,St. Lucie News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SLNT,Fort Pierce,Fla.
-89,The Daytona Beach News-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_DBNJ,Daytona Beach,Fla.
-90,Citrus County Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_CCC,Crystal River,Fla.
-91,Naples Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_NDN,Naples,Fla.
-92,Sun Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SS,Ft. Lauderdale,Fla.
-93,The News-Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_NP,Fort Myers,Fla.
-94,The Gainesville Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_GS,Gainesville,Fla.
-95,The Miami Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_MH,Miami,Fla.
-96,Florida Today,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_FT,Melbourne,Fla.
-97,The Florida Times-Union,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_FTU,Jacksonville,Fla.
-98,El Nuevo Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_ENH,Miami,Fla.
-99,Rome News-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_RNT,Rome,Ga.
-100,The Telegraph,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_TT,Macon,Ga.
-101,The Atlanta Journal-Constitution,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_AJC,Atlanta,Ga.
-102,The Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_GT,Gainesville,Ga.
-103,The Augusta Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_AC,Augusta,Ga.
-104,The Garden Island,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=HI_GI,Lihu'e,Hawaii
-105,The Honolulu Star-Advertiser,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=HI_SA,Honolulu,Hawaii
-106,The Des Moines Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_DR,Des Moines,Iowa
-107,Telegraph Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_TH,Dubuque,Iowa
-108,Quad-City Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_QCT,Davenport,Iowa
-109,The Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_TG,Cedar Rapids,Iowa
-110,The Hawk Eye,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_HE,Burlington,Iowa
-111,Iowa City Press-Citizen,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_PC,Iowa City,Iowa
-112,Muscatine Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_MJ,Muscatine,Iowa
-113,Waterloo Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_WC,Waterloo,Iowa
-114,Sioux City Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_SCJ,Sioux City,Iowa
-115,The Lewiston Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_LMT,Lewiston,Idaho
-116,Moscow-Pullman Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_MPDN,Moscow,Idaho
-117,Times-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_TN,Twin Falls,Idaho
-118,Idaho Statesman,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_IS,Boise,Idaho
-119,Daily Southtown,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_DS,Tinley Park,Ill.
-120,Daily Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_DH,Suburban Chicago,Ill.
-121,Lake County News-Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_LCNS,Waukegan,Ill.
-122,Journal Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_JS,Peoria,Ill.
-123,Decatur Herald & Review,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_DHR,Decatur,Ill.
-124,The Register-Mail,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_RM,Galesburg,Ill.
-125,The Journal-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_JN,Hillsboro,Ill.
-126,The Daily Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_DJ,Kankakee,Ill.
-127,Chicago Sun-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_CST,Chicago,Ill.
-128,Chicago Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_CT,Chicago,Ill.
-129,The News-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_NG,Champaign,Ill.
-130,The Beacon-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_BN,Aurora,Ill.
-131,Belleville News-Democrat,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_BND,Belleville,Ill.
-132,The State Journal Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_SJR,Springfield,Ill.
-133,The Pantagraph,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_TP,Bloomington,Ill.
-134,The Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TIMES,Noblesville,Ind.
-135,Palladium-Item,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_PI,Richmond,Ind.
-136,The Tribune-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TS,Terre Haute,Ind.
-137,The Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TT,Munster,Ind.
-138,South Bend Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_SBT,South Bend,Ind.
-139,The Star Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_SP,Muncie,Ind.
-140,Evansville Courier & Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_ECP,Evansville,Ind.
-141,The Journal Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_JG,Fort Wayne,Ind.
-142,The Paper of Montgomery County,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_MC,Crawfordsville,Ind.
-143,The Herald-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_HT,Bloomington,Ind.
-144,The Herald Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_HB,Anderson,Ind.
-145,Times-Mail,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TM,Bedford,Ind.
-146,The Indianapolis Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_IS,Indianapolis,Ind.
-147,The Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TH,Jasper,Ind.
-148,Pharos-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_PHA,Logansport,Ind.
-149,Post-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_PT,Merrillville,Ind.
-150,Journal & Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_JC,Lafayette,Ind.
-151,Kokomo Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_KT,Kokomo,Ind.
-152,News and Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_NAT,Jeffersonville,Ind.
-153,The Wichita Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KS_WE,Wichita,Kan.
-154,Lawrence Journal-World,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KS_LJW,Lawrence,Kan.
-155,The Emporia Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KS_EG,Emporia,Kan.
-156,Messenger-Inquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_MI,Owensboro,Ky.
-157,The Courier-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_CJ,Louisville,Ky.
-158,The Ledger Independent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_LI,Maysville,Ky.
-159,Lexington Herald-Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_LHL,Lexington,Ky.
-160,The Kentucky Enquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_KE,Fort Mitchell,Ky.
-161,Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_DN,Bowling Green,Ky.
-162,The New Orleans Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_NOA,New Orleans,La.
-163,The Times-Picayune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_TP,New Orleans,La.
-164,The Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_TT,Shreveport,La.
-165,The News-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_NS,Monroe,La.
-166,American Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_AP,Lake Charles,La.
-167,The Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_TA,Baton Rouge,La.
-168,The Acadiana Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_ACA,Lafayette,La.
-169,The Daily Advertiser,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_DA,Lafayette,La.
-170,Metro West Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_MWDN,Framingham,Mass.
-171,The Gloucester Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_GDT,Gloucester,Mass.
-172,The Salem News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_SN,Beverly,Mass.
-173,Boston Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_BH,Boston,Mass.
-174,The Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_TE,Brockton,Mass.
-175,The Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_TS,Lowell,Mass.
-176,The Boston Globe,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_BG,Boston,Mass.
-177,Telegram & Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_TG,Worcester,Mass.
-178,The Patriot Ledger,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_PL,Quincy,Mass.
-179,The Republican,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_TR,Springfield,Mass.
-180,Sentinel & Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_SE,Fitchburg,Mass.
-181,The Berkshire Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_BE,Pittsfield,Mass.
-182,The Eagle-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_ET,North Andover,Mass.
-183,The Standard-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_ST,New Bedford,Mass.
-184,The Daily News of Newburyport,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_DNN,Newburyport,Mass.
-185,The Milford Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_MDN,Milford,Mass.
-186,Carroll County Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_CCT,Westminster,Md.
-187,The Capital,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_TC,Annapolis,Md.
-188,The Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_DT,Salisbury,Md.
-189,The Baltimore Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_TS,Baltimore,Md.
-190,The Diamondback,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_TD,College Park,Md.
-191,The Frederick News-Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_FNP,Frederick,Md.
-192,Star Democrat,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_SD,Easton,Md.
-193,Kennebec Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_KJ,Augusta,Maine
-194,Bangor Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_BDN,Bangor,Maine
-195,Sun Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_SJ,Lewiston,Maine
-196,Portland Press Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_PPH,Portland,Maine
-197,Morning Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_MS,Waterville,Maine
-198,The Macomb Daily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_MD,Mount Clemens,Mich.
-199,Manistee News Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_MNA,Manistee,Mich.
-200,The Morning Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_MS,Mount Pleasant,Mich.
-201,Times Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_TH,Port Huron,Mich.
-202,Traverse City Record-Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_TCRE,Traverse City,Mich.
-203,Lansing State Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_LSJ,Lansing,Mich.
-204,The Oakland Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_OP,Pontiac,Mich.
-205,Detroit Free Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_DFP,Detroit,Mich.
-206,Pioneer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_PIO,Big Rapids,Mich.
-207,Battle Creek Enquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_BCE,Battle Creek,Mich.
-208,The Muskegon Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_MC, Muskegon,Mich.
-209,Kalamazoo Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_KG,Kalamazoo,Mich.
-210,The Detroit News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_DN,Detroit,Mich.
-211,Jackson Citizen Patriot,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_JCP,Jackson,Mich.
-212,The Grand Rapids Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_GRP,Grand Rapids,Mich.
-213,West Central Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_WCT,Willmar,Minn.
-214,Pioneer Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_PP,St. Paul,Minn.
-215,Winona Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_WDN,Winona,Minn.
-216,Brainerd Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_BD,Brainerd,Minn.
-217,St. Cloud Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_SCT,St. Cloud,Minn.
-218,Duluth News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_DNT,Duluth,Minn.
-219,Star Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_ST,Minneapolis,Minn.
-220,News-Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_NL,Springfield,Mo.
-221,The Joplin Globe,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_JG,Joplin,Mo.
-222,St. Louis Post-Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_SLPD,St. Louis,Mo.
-223,St. Joseph News-Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_SJNP,St. Joseph,Mo.
-224,News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_NT,Jefferson City,Mo.
-225,The Clarion-Ledger,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MS_CL,Jackson,Miss.
-226,Sun Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MS_SH,Biloxi,Miss.
-227,Missoulian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MT_MIS,Missoula,Mont.
-228,Great Falls Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MT_GFT,Great Falls,Mont.
-229,The News & Observer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_NO,Raleigh,N.C.
-230,The High Point Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_HPE,High Point,N.C.
-231,The Fayetteville Observer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_FO,Fayetteville,N.C.
-232,Times-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_TNEWS,Burlington,N.C.
-233,The Charlotte Observer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_CO,Charlotte,N.C.
-234,Statesville Record & Landmark,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_SRL,Statesville,N.C.
-235,Star News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_STAR,Wilmington,N.C.
-236,Winston-Salem Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_WSJ,Winston-Salem,N.C.
-237,Asheville Citizen-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_ACT,Asheville,N.C.
-238,The Jamestown Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ND_JS,Jamestown,N.D.
-239,Grand Forks Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ND_GFH,Grand Forks,N.D.
-240,The Forum,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ND_TF,Fargo,N.D.
-241,Lincoln Journal Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_LJS,Lincoln,Neb.
-242,Omaha World-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_OWH,Omaha,Neb.
-243,Concord Monitor,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NH_CM,Concord,N.H.
-244,Valley News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NH_VN,West Lebanon,N.H.
-245,Union Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NH_UL,Manchester,N.H.
-246,The Times of Trenton,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_TTT,Trenton,N.J.
-247,The Press of Atlantic City,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_PAC,Pleasantville,N.J.
-248,The Trentonian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_TT,Trenton,N.J.
-249,Courier News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_CN,Bridgewater,N.J.
-250,Home News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_HNT,East Brunswick,N.J.
-251,Asbury Park Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_APP,Neptune,N.J.
-252,South Jersey Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_SJT,Mullica Hill,N.J.
-253,The Jersey Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_JJ,Jersey City,N.J.
-254,The Star-Ledger,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_SL,Newark,N.J.
-255,Daily Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_DR,Parsippany,N.J.
-256,Herald News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_HN,Woodland Park,N.J.
-257,Burlington County Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_BCT,Willingboro,N.J.
-258,The Daily Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_DJ,Vineland,N.J.
-259,New Jersey Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_NJH,Newton,N.J.
-260,Albuquerque Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_AJ,Albuquerque,N.M.
-261,The Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_DT,Farmington,N.M.
-262,The Silver City Daily Press and Independent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_SCDPI,Silver City,N.M.
-263,Las Cruces Sun-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_LCSN,Las Cruces,N.M.
-264,Las Vegas Review-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NV_LVRJ,Las Vegas,Nev.
-265,Reno Gazette-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NV_RGJ,Reno,Nev.
-266,The Post-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TPS,Glens Falls,N.Y.
-267,Star-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_SG,Elmira,N.Y.
-268,Ithaca Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_IJ,Ithaca,N.Y.
-269,Lockport Union Sun & Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_LUSJ,Lockport,N.Y.
-270,The Journal News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_JN,Westchester County,N.Y.
-271,Newsday,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_ND,Long Island,N.Y.
-272,The Buffalo News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_BN,Buffalo,N.Y.
-273,Times Union,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TU,Albany,N.Y.
-274,The Batavia Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_BDN,Batavia,N.Y.
-275,Times Herald-Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_THR,Middletown,N.Y.
-276,Press & Sun-Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_PSB,Binghamton,N.Y.
-277,El Diario - La Prensa,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_EDLP,Brooklyn,N.Y.
-278,Hamodia,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_HAM,Brooklyn,N.Y.
-279,Watertown Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_WDT,Watertown,N.Y.
-280,Daily Freeman,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_DF,Kingston,N.Y.
-281,The New York Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_NYT,New York,N.Y.
-282,The Wall Street Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WSJ,New York,N.Y.
-283,The Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TR,Troy,N.Y.
-284,The Epoch Times: Chinese New York Edition,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_ETCNY,New York,N.Y.
-285,AM New York,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_AMNY,New York,N.Y.
-286,Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_DN,New York,N.Y.
-287,Niagara Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_NG,Niagara Falls,N.Y.
-288,New York Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_NYP,New York,N.Y.
-289,Poughkeepsie Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_PJ,Poughkeepsie,N.Y.
-290,The Post-Standard,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_PS,Syracuse,N.Y.
-291,Staten Island Advance,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_SIA,Staten Island,N.Y.
-292,Rochester Democrat and Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_RDC,Rochester,N.Y.
-293,The Saratogian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TS,Saratoga Springs,N.Y.
-294,The Medina-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_MG,Medina,Ohio
-295,The Independent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TI,Massillon,Ohio
-296,Sandusky Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_SR,Sandusky,Ohio
-297,The Marietta Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_MT,Marietta,Ohio
-298,The News-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_NH,Willoughby,Ohio
-299,The Morning Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TMJ,Lorain,Ohio
-300,The Vindicator,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TV,Youngstown,Ohio
-301,The Blade,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TB,Toledo,Ohio
-302,Springfield News Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_SNS,Springfield,Ohio
-303,The Times-Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TR,Dover-New Philadelphia,Ohio
-304,The Repository,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_REP,Canton,Ohio
-305,Akron Beacon Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_ABJ,Akron,Ohio
-306,Journal News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_JN,Hamilton,Ohio
-307,The Cincinnati Enquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_CE,Cincinnati,Ohio
-308,Ashtabula Star Beacon,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_ASB,Ashtabula,Ohio
-309,The Plain Dealer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_CPD,Cleveland,Ohio
-310,The Columbus Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_CD,Columbus,Ohio
-311,Dayton Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_DDN,Dayton,Ohio
-312,Tulsa World,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_TW,Tulsa,Okla.
-313,The Norman Transcript,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_NT,Norman,Okla.
-314,The Oklahoman,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_DOK,Oklahoma City,Okla.
-315,Statesman Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_SJ,Salem,Ore.
-316,The Oregonian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_TO,Portland,Ore.
-317,The Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_TB,Bend,Ore.
-318,The Register-Guard,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_RG,Eugene,Ore.
-319,Delaware County Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_DCDT,Primos,Pa.
-320,Reading Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_RE,Reading,Pa.
-321,The Times-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TT,Scranton,Pa.
-322,The Republican-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_RH,Pottsville,Pa.
-323,Pittsburgh Post-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PPG,Pittsburgh,Pa.
-324,Philadelphia Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PDN,Philadelphia,Pa.
-325,The Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_HER,Sharon,Pa.
-326,The Philadelphia Inquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PI,Philadelphia,Pa.
-327,The Mercury,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_MER,Pottstown,Pa.
-328,York Daily Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_YDR,York,Pa.
-329,Daily Local News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_DLN,West Chester,Pa.
-330,The Citizens' Voice,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_CV,Wilkes-Barre,Pa.
-331,York Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_YD,York,Pa.
-332,Observer-Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_OR,Washington,Pa.
-333,The Times Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TH,Norristown,Pa.
-334,Pocono Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PR,Stroudsburg,Pa.
-335,The Daily Item,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_DI,Sunbury,Pa.
-336,Daily American,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_DA,Somerset,Pa.
-337,Tribune-Review - Valley News Dispatch Edition,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TRVND,Tarentum,Pa.
-338,The Intelligencer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TI,Doylestown,Pa.
-339,The Express-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_ET,Easton,Pa.
-340,Gettysburg Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_GT,Gettysburg,Pa.
-341,Chambersburg Public Opinion,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_CPO,Chambersburg,Pa.
-342,The Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TS,Carlisle,Pa.
-343,New Castle News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_NCN,New Castle,Pa.
-344,The Morning Call,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_MC,Allentown,Pa.
-345,Altoona Mirror,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_AM,Altoona,Pa.
-346,Tribune-Review - Westmoreland Edition,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TRW,Greensburg,Pa.
-347,Erie Times-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_ETN,Erie,Pa.
-348,Standard-Speaker,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_SS,Hazleton,Pa.
-349,Bucks County Courier Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_BCCT,Levittown,Pa.
-350,The Meadville Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TMT,Meadville,Pa.
-351,Latrobe Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_LB,Latrobe,Pa.
-352,Lebanon Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_LDN,Lebanon,Pa.
-353,The Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TR,Lansdale,Pa.
-354,The Tribune-Democrat,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TD,Johnstown,Pa.
-355,LNP,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_LNP,Lancaster,Pa.
-356,The Providence Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=RI_PJ,Providence,R.I.
-357,Newport Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=RI_NDN,Newport,R.I.
-358,The State,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_TS,Columbia,S.C.
-359,The Greenville News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_GN,Greenville,S.C.
-360,The Post and Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_PC,Charleston,S.C.
-361,The Morning News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_MN,Florence,S.C.
-362,The Island Packet,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_IP,Bluffton,S.C.
-363,Aiken Standard,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_AS,Aiken,S.C.
-364,Anderson Independent-Mail,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_IM,Anderson,S.C.
-365,The Beaufort Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_BG,Beaufort,S.C.
-366,Argus Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_SFAL,Sioux Falls,S.D.
-367,Yankton Daily Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_YDP,Yankton,S.D.
-368,Rapid City Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_RCJ,Rapid City,S.D.
-369,Capital Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_CJ,Pierre,S.D.
-370,The Daily Republic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_DR,Mitchell,S.D.
-371,American News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_AN,Aberdeen,S.D.
-372,The Commercial Appeal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_CA,Memphis,Tenn.
-373,Citizen Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_CT,Morristown,Tenn.
-374,The Tennessean,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_TT,Nashville,Tenn.
-375,The Daily News Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_DNJ,Murfreesboro,Tenn.
-376,The Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_DT,Maryville,Tenn.
-377,News Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_KNS,Knoxville,Tenn.
-378,Chattanooga Times Free Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_CTFP,Chattanooga,Tenn.
-379,The Leaf-Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_LC,Clarksville,Tenn.
-380,The Jackson Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_JS,Jackson,Tenn.
-381,Standard-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_ST,San Angelo,Texas
-382,Longview News-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_LNJ,Longview,Texas
-383,Killeen Daily Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_DH,Killeen,Texas
-384,Houston Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_HC,Houston,Texas
-385,Laredo Morning Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_LMT,Laredo,Texas
-386,Tyler Morning Telegraph,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TMT,Tyler,Texas
-387,Times Record News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TRN,Wichita Falls,Texas
-388,Waco Tribune-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_WTH,Waco,Texas
-389,Victoria Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_VA,Victoria,Texas
-390,Texarkana Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TG,Texarkana,Texas
-391,Temple Daily Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TDT,Temple,Texas
-392,San Antonio Express-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_SAEN,San Antonio,Texas
-393,Austin American-Statesman,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_AAS,Austin,Texas
-394,The Beaumont Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_BE,Beaumont,Texas
-395,Amarillo Globe-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_AGN,Amarillo,Texas
-396,Abilene Reporter-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_ARN,Abilene,Texas
-397,Valley Morning Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_VMS,Harlingen,Texas
-398,The Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TE,Bryan-College Station,Texas
-399,Corpus Christi Caller-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_CCCT,Corpus Christi,Texas
-400,Fort Worth Star-Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_FWST,Fort Worth,Texas
-401,Galveston County Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_GCDN,Galveston,Texas
-402,El Paso Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_EPT,El Paso,Texas
-403,Denton Record-Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_DRC,Denton,Texas
-404,The Dallas Morning News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_DMN,Dallas,Texas
-405,The Spectrum,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=UT_TS,St. George,Utah
-406,The Salt Lake Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=UT_SLT,Salt Lake City,Utah
-407,Deseret News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=UT_DN,Salt Lake City,Utah
-408,The Daily Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=UT_DH,Provo,Utah
-409,USA Today,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=USAT,McLean,Va.
-410,The News & Advance,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_NA,Lynchburg,Va.
-411,Daily Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_DPRESS,Newport News,Va.
-412,Richmond Times-Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_RTD,Richmond,Va.
-413,Daily News-Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_DNR,Harrisonburg,Va.
-414,The Virginian-Pilot,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_VP,Norfolk,Va.
-415,Danville Register & Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_DRB,Danville,Va.
-416,The News Virginian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_NV,Waynesboro,Va.
-417,The Winchester Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_WS,Winchester,Va.
-418,Bristol Herald Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_BHC,Bristol,Va.
-419,Daily Progress,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_DP,Charlottesville,Va.
-420,The News Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_NL,Staunton,Va.
-421,The Free Lance-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_FLS,Fredericksburg,Va.
-422,The Burlington Free Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VT_BFP,Burlington,Vt.
-423,Brattleboro Reformer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VT_BR,Brattleboro,Vt.
-424,Bennington Banner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VT_BB,Bennington,Vt.
-425,The Spokesman-Review,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_SR,Spokane,Wash.
-426,The News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_NT,Tacoma,Wash.
-427,The Columbian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_COL,Vancouver,Wash.
-428,The Seattle Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_ST,Seattle,Wash.
-429,Yakima Herald-Republic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_YHR,Yakima,Wash.
-430,Kitsap Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_SUN,Bremerton,Wash.
-431,Bellingham Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_BH,Bellingham,Wash.
-432,Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_TH,Everett,Wash.
-433,The Olympian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_TO,Olympia,Wash.
-434,Tri-City Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_TCH,Kennewick,Wash.
-435,Milwaukee Journal Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_MJS,Milwaukee,Wis.
-436,Marshfield News-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_MNH,Marshfield,Wis.
-437,Wisconsin State Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_WSJ,Madison,Wis.
-438,Oshkosh Northwestern,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_ON,Oshkosh,Wis.
-439,Herald Times Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_HTR,Manitowoc,Wis.
-440,The Sheboygan Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_SP,Sheboygan,Wis.
-441,Daily Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_DT,Wisconsin Rapids,Wis.
-442,The Wausau Daily Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_WDH,Wausau,Wis.
-443,Stevens Point Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_SPJ,Stevens Point,Wis.
-444,La Crosse Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_LCT,La Crosse,Wis.
-445,Portage Daily Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_PDR,Portage,Wis.
-446,The Janesville Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_JG,Janesville,Wis.
-447,Baraboo News Republic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_BNR,Baraboo,Wis.
-448,Green Bay Press-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_GBP,Green Bay,Wis.
-449,Beaver Dam Daily Citizen,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_BDDC,Beaver Dam,Wis.
-450,The Post-Crescent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_PC,Appleton,Wis.
-451,The Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_TR,Fond du Lac,Wis.
-452,Leader-Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_LT,Eau claire,Wis.
-453,Chippewa Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_CH,Chippewa Falls,Wis.
-454,Times West Virginian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WV_TWV,Fairmont,W. Va.
-455,The Herald-Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WV_HD,Huntington,W. Va.
-456,Parkersburg News and Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WV_PNS,Parkersburg,W. Va.
-457,Jackson Hole Daily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WY_JHD,Jackson,Wyo.
-458,Casper Star-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WY_CST,Casper,Wyo.
-459,Wyoming Tribune-Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WY_WTE,Cheyenne,Wyo.
+,name,link,city,state,outer_links,state_code
+0,Anchorage Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AK_ADN,Anchorage,Alaska,http://www.adn.com,AK
+1,Fairbanks Daily News-Miner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AK_FDNM,Fairbanks,Alaska,http://www.newsminer.com/,AK
+2,The Juneau Empire,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AK_JE,Juneau,Alaska,http://www.juneauempire.com,AK
+3,Daily Sitka Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AK_DSS,Sitka,Alaska,http://www.sitkasentinel.com,AK
+4,The Tuscaloosa News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_TN,Tuscaloosa,Ala.,http://www.tuscaloosanews.com,AL
+5,Alexander City Outlook,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_ACO,ALexander City,Ala.,http://www.alexcityoutlook.com,AL
+6,Opelika-Auburn News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_OAN,Opelika,Ala.,http://www.oanow.com,AL
+7,Montgomery Advertiser,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_MA,Montgomery,Ala.,http://www.montgomeryadvertiser.com,AL
+8,The Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_TP,Centre,Ala.,http://www.epostpaper.com,AL
+9,The Anniston Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_AS,Anniston,Ala.,http://www.annistonstar.com,AL
+10,The Decatur Daily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_DD,Decatur,Ala.,http://www.decaturdaily.com,AL
+11,Dothan Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_DE,Dothan,Ala.,http://www.dothaneagle.com,AL
+12,TimesDaily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_TD,Florence,Ala.,http://www.timesdaily.com,AL
+13,The Enterprise Ledger,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AL_EL,Enterprise,Ala.,http://www.eprisenow.com,AL
+14,The Baxter Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AR_BB,Mountain Home,Ark.,http://www.baxterbulletin.com,AR
+15,Arkansas Democrat-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AR_ADG,Little Rock,Ark.,http://www.ardemgaz.com,AR
+16,The Sentinel-Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AR_SR,Hot Springs,Ark.,http://www.hotsr.com,AR
+17,The Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_TD,Casa Grande,Ariz.,http://www.trivalleycentral.com,AZ
+18,Today's News-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_TNH,Lake Havasu City,Ariz.,http://www.havasunews.com,AZ
+19,Arizona Daily Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_SUN,Flagstaff,Ariz.,http://www.azdailysun.com,AZ
+20,The Kingman Daily Miner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_KDM,Kingman,Ariz.,http://www.kingmandailyminer.com,AZ
+21,The Arizona Republic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_AR,Phoenix,Ariz.,http://www.azcentral.com,AZ
+22,Arizona Daily Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_ADS,Tucson,Ariz.,http://www.tucson.com,AZ
+23,The Daily Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=AZ_DC,Prescott,Ariz.,http://prescottdailycourier.com,AZ
+24,Orange County Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_OCR,Santa Ana,Calif.,http://www.ocregister.com,CA
+25,The Santa Cruz Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SCS,Santa Cruz,Calif.,http://www.santacruzsentinel.com,CA
+26,Santa Maria Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SMT,Santa Maria,Calif.,http://www.santamariatimes.com,CA
+27,The Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TR,Stockton,Calif.,http://www.recordnet.com,CA
+28,The San Diego Union-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SDUT,San Diego,Calif.,http://www.uniontrib.com,CA
+29,The Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TS,San Bernardino,Calif.,http://www.sbsun.com,CA
+30,Daily Breeze,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_DB,Torrance,Calif.,http://www.dailybreeze.com,CA
+31,San Francisco Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SFC,San Francisco,Calif.,http://www.sfgate.com/chronicle/,CA
+32,The Mercury News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MN,San Jose,Calif.,http://www.mercurynews.com,CA
+33,Marin Independent Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MIJ,San Rafael,Calif.,http://www.marinij.com,CA
+34,Ventura County Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_VCS,Ventura,Calif.,http://www.venturacountystar.com,CA
+35,San Gabriel Valley Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SGVT,West Covina,Calif.,http://www.sgvtribune.com,CA
+36,Whittier Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_WDN,Whittier,Calif.,http://www.whittierdailynews.com,CA
+37,The Sacramento Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_SB,Sacramento,Calif.,http://www.sacbee.com,CA
+38,East Bay Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_EBT,Walnut Creek,Calif.,http://www.eastbaytimes.com,CA
+39,Visalia Times-Delta,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_VTD,Visalia,Calif.,http://www.visaliatimesdelta.com,CA
+40,The Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_REP,Vacaville,Calif.,http://www.thereporter.com,CA
+41,Times-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TH,Vallejo,Calif.,http://www.timesheraldonline.com,CA
+42,The Daily Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TDP,Victorville,Calif.,http://www.vvdailypress.com,CA
+43,Tulare Advance-Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TAR,Tulare,Calif.,http://www.tulareadvanceregister.com,CA
+44,The Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MCH,Monterey,Calif.,http://www.montereyherald.com,CA
+45,Press-Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_PT,Long Beach,Calif.,http://www.presstelegram.com,CA
+46,Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_DN,Los Angeles,Calif.,http://www.dailynews.com,CA
+47,The Press-Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_PE,Riverside,Calif.,http://www.pe.com,CA
+48,La Opinión,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_LO,Los Angeles,Calif.,http://www.laopinion.com,CA
+49,Lodi News-Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_LNS,Lodi,Calif.,http://www.lodinews.com,CA
+50,The Union,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_TU,Grass Valley,Calif.,http://www.theunion.com,CA
+51,Enterprise-Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_ER,Chico,Calif.,http://www.chicoer.com,CA
+52,Eureka Times Standard,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_ETS,Eureka,Calif.,http://www.times-standard.com,CA
+53,The Fresno Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_FB,Fresno,Calif.,http://www.fresnobee.com,CA
+54,Merced Sun-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MSS,Merced,Calif.,http://www.mercedsun-star.com,CA
+55,Los Angeles Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_LAT,Los Angeles,Calif.,http://www.latimes.com/,CA
+56,Pasadena Star-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_PSN,Pasadena,Calif.,http://www.pasadenastarnews.com,CA
+57,The Modesto Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_MB,Modesto,Calif.,http://www.modbee.com,CA
+58,Record Searchlight,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_RS,Redding,Calif.,http://www.redding.com,CA
+59,Redlands Daily Facts,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_RDF,Redlands,Calif.,http://www.redlandsdailyfacts.com,CA
+60,The Daily Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_DP,Palo Alto,Calif.,http://www.padailypost.com,CA
+61,Red Bluff Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_RBDN,Red Bluff,Calif.,http://www.redbluffdailynews.com,CA
+62,The Desert Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_DS,Palm Springs,Calif.,http://www.thedesertsun.com,CA
+63,Napa Valley Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_NVR,Napa,Calif.,http://www.napavalleyregister.com,CA
+64,Inland Valley Daily Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CA_IVDB,Ontario,Calif.,http://www.dailybulletin.com,CA
+65,Greeley Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_GT,Greeley,Colo.,http://www.greeleytrib.com,CO
+66,The Daily Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_DS,Grand Junction,Colo.,http://www.gjsentinel.com,CO
+67,Longmont Times-Call,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_LTC,Longmont,Colo.,http://www.timescall.com,CO
+68,Sterling Journal-Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_SJA,Sterling,Colo.,http://www.journal-advocate.com,CO
+69,Fort Morgan Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_FMT,Fort Morgan,Colo.,http://www.fortmorgantimes.com,CO
+70,Steamboat Pilot & Today,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_SPT,Steamboat Springs,Colo.,http://www.steamboattoday.com,CO
+71,Loveland Reporter Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_LRH,Loveland,Colo.,http://www.reporterherald.com,CO
+72,The Denver Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_DP,Denver,Colo.,http://www.denverpost.com,CO
+73,Colorado Daily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_CD,Boulder,Colo.,http://www.coloradodaily.com,CO
+74,Fort Collins Coloradoan,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_FCC,Fort Collins,Colo.,http://www.coloradoan.com,CO
+75,Daily Camera,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_DC,Boulder,Colo.,http://www.dailycamera.com,CO
+76,Cañon City Daily Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_CCDR,Cañon City,Colo.,http://www.canoncitydailyrecord.com,CO
+77,The Durango Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_DH,Durango,Colo.,http://www.durangoherald.com,CO
+78,Vail Daily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_VD,Avon,Colo.,http://www.vaildaily.com,CO
+79,The Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CO_TG,Colorado Springs,Colo.,http://www.gazette.com,CO
+80,Norwich Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_NB,Norwich,Conn.,http://www.norwichbulletin.com,CT
+81,The Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_TA,Stamford,Conn.,http://www.stamfordadvocate.com,CT
+82,The Day,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_TD,New London,Conn.,http://www.theday.com,CT
+83,Republican-American,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_RA,Waterbury,Conn.,http://www.rep-am.com,CT
+84,Hartford Courant,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_HC,Hartford,Conn.,http://www.courant.com,CT
+85,Connecticut Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_CP,Bridgeport,Conn.,http://www.ctpost.com,CT
+86,The News-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_NT,Danbury,Conn.,http://www.newstimes.com,CT
+87,Greenwich Time,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=CT_GT,Greenwich,Conn.,http://www.greenwichtime.com,CT
+88,The Washington Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=DC_WT,Washington,D.C.,http://www.washtimes.com/,DC
+89,The Washington Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=DC_WP,Washington,D.C.,http://www.washingtonpost.com,DC
+90,The Hill,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=DC_HILL,Washington,D.C.,http://thehill.com,DC
+91,The News Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=DE_NJ,Wilmington,Del.,http://www.delawareonline.com,DE
+92,Tampa Bay Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_TIMES,St. Petersburg,Fla.,http://www.tampabay.com/publication/,FL
+93,The St. Augustine Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SAR,St. Augustine,Fla.,http://www.staugustine.com,FL
+94,Orlando Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_OS,Orlando,Fla.,http://www.orlandosentinel.com,FL
+95,TBT*,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_TB,St. Petersburg,Fla.,http://www.tampabay.com,FL
+96,Pensacola News Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_PNJ,Pensacola,Fla.,http://www.pensacolanewsjournal.com,FL
+97,Press Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_VBPJ,Vero Beach,Fla.,http://www.pressjournal.com,FL
+98,Star-Banner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SB,Ocala,Fla.,http://www.starbanner.com,FL
+99,The Palm Beach Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_PBP,West Palm Beach,Fla.,http://palmbeachpost.com,FL
+100,The Villages Daily Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_VDS,The Villages,Fla.,http://www.thevillagesdailysun.com,FL
+101,Tallahassee Democrat,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_TD,Tallahassee,Fla.,http://www.tallahassee.com,FL
+102,The Stuart News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SN,Stuart,Fla.,http://www.stuartnews.com,FL
+103,Sarasota Herald-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SHT,Sarasota,Fla.,http://www.heraldtribune.com,FL
+104,St. Lucie News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SLNT,Fort Pierce,Fla.,http://www.tcpalm.com,FL
+105,The News-Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_NP,Fort Myers,Fla.,http://news-press.com,FL
+106,Citrus County Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_CCC,Crystal River,Fla.,http://chronicleonline.com,FL
+107,Naples Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_NDN,Naples,Fla.,http://www.naplesnews.com,FL
+108,Sun Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_SS,Ft. Lauderdale,Fla.,http://www.sun-sentinel.com,FL
+109,The Daytona Beach News-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_DBNJ,Daytona Beach,Fla.,http://www.news-journalonline.com,FL
+110,The Gainesville Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_GS,Gainesville,Fla.,http://www.gvillesun.com,FL
+111,The Miami Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_MH,Miami,Fla.,http://www.miamiherald.com,FL
+112,El Nuevo Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_ENH,Miami,Fla.,http://www.miami.com/mld/elnuevo/,FL
+113,The Florida Times-Union,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_FTU,Jacksonville,Fla.,http://www.jacksonville.com,FL
+114,Florida Today,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=FL_FT,Melbourne,Fla.,http://www.floridatoday.com,FL
+115,The Telegraph,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_TT,Macon,Ga.,http://www.macon.com,GA
+116,Rome News-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_RNT,Rome,Ga.,http://www.romenews-tribune.com,GA
+117,Griffin Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_GDN,Griffin,Ga.,http://www.griffindailynews.com,GA
+118,The Atlanta Journal-Constitution,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_AJC,Atlanta,Ga.,http://www.ajc.com,GA
+119,The Albany Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_AH,Albany,Ga.,http://www.albanyherald.com,GA
+120,Times-Georgian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_TG,Carrollton,Ga.,http://www.times-georgian.com,GA
+121,The Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=GA_GT,Gainesville,Ga.,http://www.gainesvilletimes.com,GA
+122,The Garden Island,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=HI_GI,Lihu'e,Hawaii,http://www.kauaiworld.com,HI
+123,The Honolulu Star-Advertiser,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=HI_SA,Honolulu,Hawaii,http://www.staradvertiser.com,HI
+124,The Des Moines Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_DR,Des Moines,Iowa,http://www.dmregister.com,IA
+125,Iowa City Press-Citizen,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_PC,Iowa City,Iowa,http://www.press-citizen.com,IA
+126,Quad-City Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_QCT,Davenport,Iowa,http://www.qctimes.com,IA
+127,The Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_TG,Cedar Rapids,Iowa,http://www.gazetteonline.com/,IA
+128,The Hawk Eye,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_HE,Burlington,Iowa,http://www.thehawkeye.com,IA
+129,Sioux City Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_SCJ,Sioux City,Iowa,http://www.siouxcityjournal.com,IA
+130,Muscatine Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_MJ,Muscatine,Iowa,http://muscatinejournal.com,IA
+131,Waterloo Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IA_WC,Waterloo,Iowa,http://www.wcfcourier.com,IA
+132,Moscow-Pullman Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_MPDN,Moscow,Idaho,http://www.dnews.com,ID
+133,The Lewiston Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_LMT,Lewiston,Idaho,http://www.lmtribune.com,ID
+134,Bonner County Daily Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_BCDB,Sandpoint,Idaho,http://www.bonnercountydailybee.com,ID
+135,Times-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_TN,Twin Falls,Idaho,http://www.magicvalley.com,ID
+136,Idaho Statesman,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ID_IS,Boise,Idaho,http://idahostatesman.com,ID
+137,Daily Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_DH,Suburban Chicago,Ill.,http://www.dailyherald.com,IL
+138,Daily Southtown,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_DS,Tinley Park,Ill.,http://www.chicagotribune.com/suburbs/daily-southtown,IL
+139,Lake County News-Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_LCNS,Waukegan,Ill.,http://www.chicagotribune.com/suburbs/lake-county-news-sun/,IL
+140,Journal Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_JS,Peoria,Ill.,http://www.pjstar.com,IL
+141,Monmouth Review Atlas,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_MRA,Monmouth,Ill.,http://www.reviewatlas.com,IL
+142,The News-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_NG,Champaign,Ill.,http://www.news-gazette.com,IL
+143,Chicago Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_CT,Chicago,Ill.,http://www.chicagotribune.com,IL
+144,Decatur Herald & Review,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_DHR,Decatur,Ill.,http://www.herald-review.com,IL
+145,The Register-Mail,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_RM,Galesburg,Ill.,http://www.register-mail.com,IL
+146,The Southern Illinoisan,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_SI,Carbondale,Ill.,http://thesouthern.com,IL
+147,Chicago Sun-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_CST,Chicago,Ill.,http://www.suntimes.com,IL
+148,The Daily Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_DJ,Kankakee,Ill.,http://www.daily-journal.com,IL
+149,The Pantagraph,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_TP,Bloomington,Ill.,http://www.pantagraph.com,IL
+150,The Beacon-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_BN,Aurora,Ill.,http://www.chicagotribune.com/suburbs/aurora-beacon-news/,IL
+151,Journal Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_JG,Mattoon,Ill.,http://www.jg-tc.com,IL
+152,Belleville News-Democrat,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IL_BND,Belleville,Ill.,http://www.bnd.com,IL
+153,Rushville Republican,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_RR,Rushville,Ind.,http://www.rushvillerepublican.com,IN
+154,Palladium-Item,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_PI,Richmond,Ind.,http://www.pal-item.com,IN
+155,South Bend Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_SBT,South Bend,Ind.,http://www.southbendtribune.com,IN
+156,The Tribune-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TS,Terre Haute,Ind.,http://www.tribstar.com,IN
+157,Vincennes Sun-Commercial,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_VSC,Vincennes,Ind.,http://www.suncommercial.com,IN
+158,The Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TT,Munster,Ind.,http://www.nwitimes.com,IN
+159,Post-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_PT,Merrillville,Ind.,http://www.chicagotribune.com/suburbs/post-tribune/,IN
+160,Evansville Courier & Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_ECP,Evansville,Ind.,http://www.courierpress.com,IN
+161,The Journal Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_JG,Fort Wayne,Ind.,http://www.journalgazette.net,IN
+162,The Paper of Montgomery County,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_MC,Crawfordsville,Ind.,http://www.thepaper24-7.com,IN
+163,Journal Review,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_JR,Crawfordsville,Ind.,http://www.journalreview.com,IN
+164,Times-Mail,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TM,Bedford,Ind.,http://www.tmnews.com,IN
+165,The Herald-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_HT,Bloomington,Ind.,http://www.heraldtimesonline.com,IN
+166,Greensburg Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_GDN,Greensburg,Ind.,http://www.greensburgdailynews.com,IN
+167,The Indianapolis Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_IS,Indianapolis,Ind.,http://www.indystar.com,IN
+168,Journal & Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_JC,Lafayette,Ind.,http://www.jconline.com,IN
+169,Pharos-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_PHA,Logansport,Ind.,http://www.pharostribune.com,IN
+170,The Star Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_SP,Muncie,Ind.,http://www.thestarpress.com,IN
+171,Kokomo Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_KT,Kokomo,Ind.,http://www.kokomotribune.com,IN
+172,News and Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_NAT,Jeffersonville,Ind.,http://www.newsandtribune.com,IN
+173,The Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=IN_TH,Jasper,Ind.,http://www.duboiscountyherald.com,IN
+174,The Wichita Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KS_WE,Wichita,Kan.,http://www.kansas.com,KS
+175,Manhattan Mercury,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KS_MM,Manhattan,Kan.,http://www.themercury.com,KS
+176,The Daily Union,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KS_DU,Junction City,Kan.,http://www.dailyu.com,KS
+177,The Emporia Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KS_EG,Emporia,Kan.,http://www.emporiagazette.com,KS
+178,Lawrence Journal-World,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KS_LJW,Lawrence,Kan.,http://www.ljworld.com,KS
+179,The Messenger,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_TM,Madisonville,Ky.,http://www.the-messenger.com,KY
+180,Messenger-Inquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_MI,Owensboro,Ky.,http://www.messenger-inquirer.com,KY
+181,The Courier-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_CJ,Louisville,Ky.,http://www.courier-journal.com,KY
+182,Lexington Herald-Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_LHL,Lexington,Ky.,http://www.kentucky.com,KY
+183,Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_DN,Bowling Green,Ky.,http://www.bgdailynews.com,KY
+184,The State Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_SJ,Frankfort,Ky.,http://www.state-journal.com,KY
+185,The Kentucky Enquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_KE,Fort Mitchell,Ky.,http://www.cincinnati.com/news/northern-kentucky/,KY
+186,The Gleaner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=KY_TG,Henderson,Ky.,http://www.thegleaner.com,KY
+187,The New Orleans Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_NOA,New Orleans,La.,http://theneworleansadvocate.com ,LA
+188,The Times-Picayune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_TP,New Orleans,La.,http://www.nola.com/t-p/,LA
+189,The Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_TT,Shreveport,La.,http://shreveporttimes.com,LA
+190,The News-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_NS,Monroe,La.,http://www.thenewsstar.com,LA
+191,Gambit,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_GA,New Orleans,La.,http://bestofneworleans.com,LA
+192,American Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_AP,Lake Charles,La.,http://www.americanpress.com,LA
+193,The Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_TA,Baton Rouge,La.,http://www.theadvocate.com/,LA
+194,The Acadiana Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_ACA,Lafayette,La.,http://www.theacadianaadvocate.com,LA
+195,The Daily Advertiser,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=LA_DA,Lafayette,La.,http://www.theadvertiser.com,LA
+196,The Milford Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_MDN,Milford,Mass.,http://www.milforddailynews.com,MA
+197,The Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_TS,Lowell,Mass.,http://www.lowellsun.com,MA
+198,Metro West Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_MWDN,Framingham,Mass.,http://www.metrowestdailynews.com,MA
+199,The Standard-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_ST,New Bedford,Mass.,http://www.southcoasttoday.com,MA
+200,The Gloucester Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_GDT,Gloucester,Mass.,http://www.gloucestertimes.com,MA
+201,Cape Cod Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_CCT,Hyannis,Mass.,http://www.capecodtimes.com/news,MA
+202,The Berkshire Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_BE,Pittsfield,Mass.,http://berkshireeagle.com,MA
+203,Telegram & Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_TG,Worcester,Mass.,http://www.telegram.com,MA
+204,The Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_TE,Brockton,Mass.,http://enterprise.southofboston.com,MA
+205,The Republican,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_TR,Springfield,Mass.,http://www.masslive.com,MA
+206,The Patriot Ledger,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_PL,Quincy,Mass.,http://www.patriotledger.com,MA
+207,The Eagle-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_ET,North Andover,Mass.,http://www.eagletribune.com,MA
+208,The Daily News of Newburyport,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_DNN,Newburyport,Mass.,http://www.newburyportnews.com,MA
+209,Sentinel & Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_SE,Fitchburg,Mass.,http://www.sentinelandenterprise.com,MA
+210,The Salem News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_SN,Beverly,Mass.,http://www.salemnews.com ,MA
+211,The Boston Globe,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_BG,Boston,Mass.,http://www.bostonglobe.com,MA
+212,Boston Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MA_BH,Boston,Mass.,http://www.bostonherald.com,MA
+213,The Baltimore Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_TS,Baltimore,Md.,http://www.sunspot.net,MD
+214,The Capital,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_TC,Annapolis,Md.,http://www.capitalgazette.com,MD
+215,Cumberland Times-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_CTN,Cumberland,Md.,http://www.times-news.com,MD
+216,The Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_DT,Salisbury,Md.,http://www.delmarvanow.com,MD
+217,Carroll County Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_CCT,Westminster,Md.,http://www.carrollcountytimes.com,MD
+218,Star Democrat,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MD_SD,Easton,Md.,http://www.stardem.com,MD
+219,Bangor Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_BDN,Bangor,Maine,http://bangordailynews.com,ME
+220,Sun Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_SJ,Lewiston,Maine,http://www.sunjournal.com,ME
+221,Morning Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_MS,Waterville,Maine,http://www.onlinesentinel.com,ME
+222,Portland Press Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_PPH,Portland,Maine,http://www.pressherald.com,ME
+223,Kennebec Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ME_KJ,Augusta,Maine,http://www.kjonline.com,ME
+224,Manistee News Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_MNA,Manistee,Mich.,http://www.manisteenews.com,MI
+225,The Macomb Daily,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_MD,Mount Clemens,Mich.,http://www.macombdaily.com,MI
+226,The Morning Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_MS,Mount Pleasant,Mich.,http://www.themorningsun.com,MI
+227,Times Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_TH,Port Huron,Mich.,http://www.thetimesherald.com,MI
+228,Lansing State Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_LSJ,Lansing,Mich.,http://www.lsj.com,MI
+229,Traverse City Record-Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_TCRE,Traverse City,Mich.,http://www.record-eagle.com,MI
+230,The Oakland Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_OP,Pontiac,Mich.,http://www.theoaklandpress.com,MI
+231,Pioneer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_PIO,Big Rapids,Mich.,http://bigrapidsnews.com,MI
+232,Kalamazoo Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_KG,Kalamazoo,Mich.,http://www.mlive.com/,MI
+233,Battle Creek Enquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_BCE,Battle Creek,Mich.,http://www.battlecreekenquirer.com,MI
+234,Detroit Free Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_DFP,Detroit,Mich.,http://www.freep.com,MI
+235,The Detroit News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_DN,Detroit,Mich.,http://www.detnews.com,MI
+236,Jackson Citizen Patriot,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_JCP,Jackson,Mich.,http://mlive.com/citpat,MI
+237,The Grand Rapids Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_GRP,Grand Rapids,Mich.,http://www.mlive.com/grpress,MI
+238,The Muskegon Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MI_MC, Muskegon,Mich.,http://www.muskegonchronicle.com,MI
+239,St. Cloud Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_SCT,St. Cloud,Minn.,http://www.sctimes.com,MN
+240,Star Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_ST,Minneapolis,Minn.,http://www.startribune.com,MN
+241,Winona Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_WDN,Winona,Minn.,http://www.winonadailynews.com,MN
+242,West Central Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_WCT,Willmar,Minn.,http://www.wctrib.com,MN
+243,Pioneer Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_PP,St. Paul,Minn.,http://www.twincities.com,MN
+244,Bemidji Pioneer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_BP,Bemidji,Minn.,http://www.bemidjipioneer.com,MN
+245,Brainerd Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_BD,Brainerd,Minn.,http://www.brainerddispatch.com,MN
+246,The Free Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_FP,Mankato,Minn.,http://www.mankatofreepress.com,MN
+247,Duluth News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MN_DNT,Duluth,Minn.,http://www.duluthnewstribune.com,MN
+248,The Kansas City Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_KCS,Kansas City,Mo.,http://www.kansascity.com,MO
+249,The Joplin Globe,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_JG,Joplin,Mo.,http://www.joplinglobe.com,MO
+250,News-Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_NL,Springfield,Mo.,http://www.news-leader.com,MO
+251,St. Joseph News-Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_SJNP,St. Joseph,Mo.,http://www.newspressnow.com,MO
+252,News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_NT,Jefferson City,Mo.,http://www.newstribune.com,MO
+253,St. Louis Post-Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_SLPD,St. Louis,Mo.,http://www.stltoday.com,MO
+254,Fulton Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_FS,Fulton,Mo.,http://www.fultonsun.com,MO
+255,Hannibal Courier-Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MO_HCP,Hannibal,Mo.,http://www.hannibal.net,MO
+256,Sun Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MS_SH,Biloxi,Miss.,http://www.sunherald.com,MS
+257,The Commercial Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MS_CD,Columbus,Miss.,http://www.cdispatch.com,MS
+258,The Clarion-Ledger,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MS_CL,Jackson,Miss.,http://www.clarionledger.com,MS
+259,Delta Democrat Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MS_DDT,Greenville,Miss.,http://www.ddtonline.com,MS
+260,Great Falls Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MT_GFT,Great Falls,Mont.,http://www.greatfallstribune.com,MT
+261,Missoulian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MT_MIS,Missoula,Mont.,http://www.missoulian.com,MT
+262,Bozeman Daily Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=MT_BDC,Bozeman,Mont.,http://www.dailychronicle.com,MT
+263,Hickory Daily Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_HDR,Hickory,N.C.,http://www.hickoryrecord.com,MC
+264,The High Point Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_HPE,High Point,N.C.,http://www.hpe.com,MC
+265,News-Topic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_NT,Lenoir,N.C.,http://www.newstopicnews.com,MC
+266,The Daily Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_DD,Henderson,N.C.,http://www.hendersondispatch.com,MC
+267,The Daily Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_DC,Forest City,N.C.,http://www.thedigitalcourier.com,MC
+268,Times-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_TNEWS,Burlington,N.C.,http://www.TheTimesNews.com,MC
+269,The Charlotte Observer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_CO,Charlotte,N.C.,http://www.charlotteobserver.com,MC
+270,The Fayetteville Observer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_FO,Fayetteville,N.C.,http://www.fayobserver.com,MC
+271,The News Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_NH,Morganton,N.C.,http://www.morganton.com,MC
+272,The Sanford Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_SH,Sanford,N.C.,http://www.sanfordherald.com,MC
+273,Asheville Citizen-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_ACT,Asheville,N.C.,http://www.citizen-times.com,MC
+274,The News & Observer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_NO,Raleigh,N.C.,http://www.newsobserver.com,MC
+275,Winston-Salem Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_WSJ,Winston-Salem,N.C.,http://www.journalnow.com,MC
+276,Statesville Record & Landmark,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_SRL,Statesville,N.C.,http://www.statesville.com,MC
+277,Star News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NC_STAR,Wilmington,N.C.,http://starnewsonline.com,MC
+278,The Jamestown Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ND_JS,Jamestown,N.D.,http://www.jamestownsun.com,ND
+279,Grand Forks Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ND_GFH,Grand Forks,N.D.,http://www.grandforksherald.com,ND
+280,The Dickinson Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ND_DP,Dickinson,N.D.,http://www.thedickinsonpress.com,ND
+281,The Forum,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=ND_TF,Fargo,N.D.,http://www.inforum.com,ND
+282,The Grand Island Independent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_GII,Grand Island,Neb.,http://www.theindependent.com,NE
+283,Lincoln Journal Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_LJS,Lincoln,Neb.,http://www.journalstar.com,NE
+284,Norfolk Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_NDN,Norfolk,Neb.,http://www.norfolkdailynews.com,NE
+285,Fremont Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_FT,Fremont,Neb.,http://www.fremonttribune.com,NE
+286,Columbus Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_CT,Columbus,Neb.,http://www.columbustelegram.com,NE
+287,Beatrice Daily Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_BDS,Beatrice,Neb.,http://www.beatricedailysun.com,NE
+288,Star-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_SH,Scottsbluff,Neb.,http://www.starherald.com,NE
+289,Omaha World-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NE_OWH,Omaha,Neb.,http://www.omaha.com,NE
+290,Concord Monitor,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NH_CM,Concord,N.H.,http://www.concordmonitor.com/,NH
+291,Portsmouth Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NH_PH,Portsmouth,N.H.,http://www.seacoastonline.com,NH
+292,Monadnock Ledger-Transcript,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NH_MLT,Peterborough,N.H.,http://www.ledgertranscript.com/,NH
+293,Valley News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NH_VN,West Lebanon,N.H.,http://www.vnews.com,NH
+294,Courier News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_CN,Bridgewater,N.J.,http://www.mycentraljersey.com,NJ
+295,Home News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_HNT,East Brunswick,N.J.,http://www.thnt.com,NJ
+296,Courier-Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_CP,Cherry Hill,N.J.,http://www.courierpostonline.com,NJ
+297,The Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_TR,Bergen County,N.J.,http://www.northjersey.com,NJ
+298,The Times of Trenton,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_TTT,Trenton,N.J.,http://www.nj.com,NJ
+299,Asbury Park Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_APP,Neptune,N.J.,http://www.app.com/,NJ
+300,South Jersey Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_SJT,Mullica Hill,N.J.,http://www.nj.com/south,NJ
+301,The Trentonian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_TT,Trenton,N.J.,http://www.trentonian.com,NJ
+302,New Jersey Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_NJH,Newton,N.J.,http://www.njherald.com,NJ
+303,The Press of Atlantic City,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_PAC,Pleasantville,N.J.,http://pressofatlanticcity.com,NJ
+304,Daily Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_DR,Parsippany,N.J.,http://www.dailyrecord.com,NJ
+305,The Jersey Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_JJ,Jersey City,N.J.,http://www.nj.com/hudson,NJ
+306,The Star-Ledger,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_SL,Newark,N.J.,http://www.nj.com/starledger,NJ
+307,The Daily Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_DJ,Vineland,N.J.,http://www.thedailyjournal.com,NJ
+308,Herald News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NJ_HN,Woodland Park,N.J.,http://www.northjersey.com,NJ
+309,The Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_DT,Farmington,N.M.,http://www.daily-times.com,NM
+310,Las Cruces Sun-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_LCSN,Las Cruces,N.M.,http://www.lcsun-news.com,NM
+311,Carlsbad Current-Argus,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_CCA,Carlsbad,N.M.,http://www.currentargus.com,NM
+312,Albuquerque Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_AJ,Albuquerque,N.M.,http://www.abqjournal.com/,NM
+313,The Silver City Daily Press and Independent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_SCDPI,Silver City,N.M.,http://www.scdailypress.com,NM
+314,The Alamogordo Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NM_ADN,Alamogordo,N.M.,http://www.alamogordonews.com,NM
+315,Reno Gazette-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NV_RGJ,Reno,Nev.,http://www.rgj.com/,NV
+316,Las Vegas Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NV_SUN,Las Vegas,Nev.,http://www.lasvegassun.com,NV
+317,Las Vegas Review-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NV_LVRJ,Las Vegas,Nev.,http://www.reviewjournal.com,NV
+318,Hamodia,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_HAM,Brooklyn,N.Y.,http://www.hamodia.com,NY
+319,The Buffalo News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_BN,Buffalo,N.Y.,http://www.buffalonews.com,NY
+320,Daily Messenger ,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_DAILY,Canandaigua,N.Y.,http://www.mpnnow.com,NY
+321,Press & Sun-Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_PSB,Binghamton,N.Y.,http://www.pressconnects.com,NY
+322,The Batavia Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_BDN,Batavia,N.Y.,http://thedailynewsonline.com,NY
+323,Star-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_SG,Elmira,N.Y.,http://www.stargazette.com,NY
+324,Times Union,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TU,Albany,N.Y.,http://www.timesunion.com,NY
+325,The Citizen,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TC,Auburn,N.Y.,http://www.auburnpub.com,NY
+326,The Journal News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_JN,Westchester County,N.Y.,http://www.lohud.com,NY
+327,El Diario - La Prensa,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_EDLP,Brooklyn,N.Y.,http://www.eldiariony.com,NY
+328,AM New York,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_AMNY,New York,N.Y.,http://www.amny.com,NY
+329,Watertown Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_WDT,Watertown,N.Y.,http://www.watertowndailytimes.com,NY
+330,The Epoch Times: Chinese New York Edition,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_ETCNY,New York,N.Y.,http://www.epochtimes.com ,NY
+331,New York Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_NYP,New York,N.Y.,http://www.nypost.com,NY
+332,Times Herald-Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_THR,Middletown,N.Y.,http://www.recordonline.com,NY
+333,Newsday,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_ND,Long Island,N.Y.,http://www.newsday.com,NY
+334,The Post-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TPS,Glens Falls,N.Y.,http://www.poststar.com,NY
+335,Ithaca Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_IJ,Ithaca,N.Y.,http://www.ithacajournal.com,NY
+336,Daily Freeman,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_DF,Kingston,N.Y.,http://www.freemanonline.com,NY
+337,The New York Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_NYT,New York,N.Y.,http://www.nytimes.com,NY
+338,Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_DN,New York,N.Y.,http://www.nydailynews.com,NY
+339,The Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TR,Troy,N.Y.,http://www.troyrecord.com,NY
+340,Staten Island Advance,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_SIA,Staten Island,N.Y.,http://www.silive.com,NY
+341,The Post-Standard,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_PS,Syracuse,N.Y.,http://www.syracuse.com/news/,NY
+342,The Wall Street Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WSJ,New York,N.Y.,http://www.wsj.com,NY
+343,The Saratogian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TS,Saratoga Springs,N.Y.,http://www.saratogian.com,NY
+344,Rochester Democrat and Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_RDC,Rochester,N.Y.,http://www.democratandchronicle.com,NY
+345,Ogdensburg Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_OJ,Ogdensburg,N.Y.,http://www.ogd.com/,NY
+346,The Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_TD,Oneida,N.Y.,http://www.oneidadispatch.com,NY
+347,Poughkeepsie Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=NY_PJ,Poughkeepsie,N.Y.,http://www.poughkeepsiejournal.com,NY
+348,The Independent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TI,Massillon,Ohio,http://www.indeonline.com,OH
+349,The Morning Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TMJ,Lorain,Ohio,http://www.morningjournal.com/,OH
+350,The Medina-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_MG,Medina,Ohio,http://www.medina-gazette.com,OH
+351,The Marietta Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_MT,Marietta,Ohio,http://www.mariettatimes.com,OH
+352,The Vindicator,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TV,Youngstown,Ohio,http://www.vindy.com,OH
+353,The Lima News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_LN,Lima,Ohio,http://www.limanews.com,OH
+354,The News-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_NH,Willoughby,Ohio,http://www.news-herald.com,OH
+355,The Blade,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TB,Toledo,Ohio,http://www.toledoblade.com,OH
+356,Springfield News Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_SNS,Springfield,Ohio,http://www.springfieldnewssun.com,OH
+357,Sandusky Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_SR,Sandusky,Ohio,http://www.sanduskyregister.com,OH
+358,Dayton Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_DDN,Dayton,Ohio,http://www.daytondailynews.com,OH
+359,The Cincinnati Enquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_CE,Cincinnati,Ohio,http://www.cincinnati.com,OH
+360,The Repository,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_REP,Canton,Ohio,http://www.cantonrep.com,OH
+361,Ashtabula Star Beacon,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_ASB,Ashtabula,Ohio,http://www.starbeacon.com,OH
+362,Journal News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_JN,Hamilton,Ohio,http://www.journal-news.com/,OH
+363,The Plain Dealer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_CPD,Cleveland,Ohio,http://www.cleveland.com/,OH
+364,Akron Beacon Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_ABJ,Akron,Ohio,http://www.ohio.com/mld/beaconjournal/,OH
+365,The Columbus Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_CD,Columbus,Ohio,http://www.dispatch.com,OH
+366,The Chronicle-Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_CT,Elyria,Ohio,http://www.chronicletelegram.com,OH
+367,The Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TC,Findlay,Ohio,http://www.thecourier.com,OH
+368,The Times-Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OH_TR,Dover-New Philadelphia,Ohio,http://www.timesreporter.com,OH
+369,Tulsa World,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_TW,Tulsa,Okla.,http://www.tulsaworld.com,OK
+370,Weatherford Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_WEDN,Weatherford,Okla.,http://www.wdnonline.com,OK
+371,Perry Daily Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_PDJ,Perry,Okla.,http://www.pdjnews.com/,OK
+372,The Oklahoman,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_DOK,Oklahoma City,Okla.,http://www.oklahoman.com,OK
+373,The Norman Transcript,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_NT,Norman,Okla.,http://normantranscript.com,OK
+374,The Grove Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OK_GS,Grove,Okla.,http://www.grandlakenews.com,OK
+375,Mail Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_MT,Medford,Ore.,http://www.mailtribune.com,OR
+376,The East Oregonian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_EO,Pendleton,Ore.,http://www.eastoregonian.com,OR
+377,Statesman Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_SJ,Salem,Ore.,http://www.statesmanjournal.com,OR
+378,The Oregonian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_TO,Portland,Ore.,http://www.oregonlive.com,OR
+379,Daily Tidings,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_DT,Medford,Ore.,http://www.dailytidings.com,OR
+380,Herald and News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_HN,Klamath Falls ,Ore.,http://www.heraldandnews.com,OR
+381,The Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_TB,Bend,Ore.,http://www.bendbulletin.com,OR
+382,The Daily Astorian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_DA,Astoria,Ore.,http://www.dailyastorian.com,OR
+383,The Register-Guard,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_RG,Eugene,Ore.,http://www.registerguard.com,OR
+384,The World,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=OR_TW,Coos Bay,Ore.,http://theworldlink.com,OR
+385,The Republican-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_RH,Pottsville,Pa.,http://www.republicanherald.com,PA
+386,Reading Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_RE,Reading,Pa.,http://www.readingeagle.com,PA
+387,The Mercury,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_MER,Pottstown,Pa.,http://www.pottsmerc.com,PA
+388,Delaware County Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_DCDT,Primos,Pa.,http://www.delcotimes.com,PA
+389,The Philadelphia Inquirer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PI,Philadelphia,Pa.,http://www.philly.com,PA
+390,Philadelphia Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PDN,Philadelphia,Pa.,http://www.philly.com/mld/dailynews/,PA
+391,The Times-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TT,Scranton,Pa.,http://www.thetimes-tribune.com,PA
+392,The Times Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TH,Norristown,Pa.,http://www.timesherald.com,PA
+393,Pittsburgh Post-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PPG,Pittsburgh,Pa.,http://www.post-gazette.com/,PA
+394,The Daily Item,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_DI,Sunbury,Pa.,http://www.dailyitem.com,PA
+395,The Citizens' Voice,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_CV,Wilkes-Barre,Pa.,http://www.citizensvoice.com,PA
+396,York Daily Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_YDR,York,Pa.,http://www.ydr.com,PA
+397,York Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_YD,York,Pa.,http://www.yorkdispatch.com,PA
+398,Daily Local News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_DLN,West Chester,Pa.,http://www.dailylocal.com,PA
+399,Observer-Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_OR,Washington,Pa.,http://www.observer-reporter.com,PA
+400,Daily American,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_DA,Somerset,Pa.,http://www.dailyamerican.com,PA
+401,Tribune-Review - Valley News Dispatch Edition,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TRVND,Tarentum,Pa.,http://www.triblive.com,PA
+402,The Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_HER,Sharon,Pa.,http://www.sharonherald.com,PA
+403,Philadelphia Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PT,Philadelphia,Pa.,http://www.phillytrib.com,PA
+404,The Express-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_ET,Easton,Pa.,http://www.express-times.com,PA
+405,Erie Times-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_ETN,Erie,Pa.,http://www.goerie.com,PA
+406,Tribune-Review - Westmoreland Edition,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TRW,Greensburg,Pa.,http://www.triblive.com,PA
+407,Chambersburg Public Opinion,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_CPO,Chambersburg,Pa.,http://www.publicopiniononline.com,PA
+408,The Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TS,Carlisle,Pa.,http://www.cumberlink.com,PA
+409,New Castle News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_NCN,New Castle,Pa.,http://www.ncnewsonline.com,PA
+410,The Morning Call,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_MC,Allentown,Pa.,http://www.mcall.com,PA
+411,Altoona Mirror,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_AM,Altoona,Pa.,http://www.altoonamirror.com,PA
+412,Hanover Evening Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_HES,Hanover,Pa.,http://www.eveningsun.com,PA
+413,Gettysburg Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_GT,Gettysburg,Pa.,http://www.gettysburgtimes.com,PA
+414,Latrobe Bulletin,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_LB,Latrobe,Pa.,http://www.latrobebulletinnews.com,PA
+415,The Patriot-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_PN,Harrisburg,Pa.,http://www.pennlive.com/,PA
+416,Times-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TN,Lehighton,Pa.,http://www.tnonline.com/online,PA
+417,The Meadville Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TMT,Meadville,Pa.,http://www.meadvilletribune.com,PA
+418,The Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TR,Lansdale,Pa.,http://www.thereporteronline.com,PA
+419,Lebanon Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_LDN,Lebanon,Pa.,http://www.LDNews.com,PA
+420,Standard-Speaker,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_SS,Hazleton,Pa.,http://www.standardspeaker.com,PA
+421,The Tribune-Democrat,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_TD,Johnstown,Pa.,http://www.tribdem.com,PA
+422,LNP,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=PA_LNP,Lancaster,Pa.,http://www.lancasteronline.com,PA
+423,The Westerly Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=RI_WS,Westerly,R.I.,http://www.thewesterlysun.com,RI
+424,The Providence Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=RI_PJ,Providence,R.I.,http://www.projo.com,RI
+425,Newport Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=RI_NDN,Newport,R.I.,http://www.newportdailynews.com,RI
+426,The Morning News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_MN,Florence,S.C.,http://www.scnow.com,SC
+427,The Post and Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_PC,Charleston,S.C.,http://www.postandcourier.com,SC
+428,The Greenville News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_GN,Greenville,S.C.,http://www.greenvilleonline.com,SC
+429,The State,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_TS,Columbia,S.C.,http://www.thestate.com,SC
+430,The Island Packet,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_IP,Bluffton,S.C.,http://www.islandpacket.com,SC
+431,The Beaufort Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_BG,Beaufort,S.C.,http://www.beaufortgazette.com,SC
+432,Anderson Independent-Mail,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_IM,Anderson,S.C.,http://www.independentmail.com,SC
+433,Aiken Standard,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SC_AS,Aiken,S.C.,http://www.aikenstandard.com,SC
+434,Argus Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_SFAL,Sioux Falls,S.D.,http://www.argusleader.com,SD
+435,Yankton Daily Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_YDP,Yankton,S.D.,http://www.yankton.net/,SD
+436,Rapid City Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_RCJ,Rapid City,S.D.,http://www.rapidcityjournal.com,SD
+437,Capital Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_CJ,Pierre,S.D.,http://www.capjournal.com,SD
+438,The Daily Republic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_DR,Mitchell,S.D.,http://www.mitchellrepublic.com,SD
+439,American News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=SD_AN,Aberdeen,S.D.,http://www.aberdeennews.com,SD
+440,The Commercial Appeal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_CA,Memphis,Tenn.,http://www.commercialappeal.com,TN
+441,Citizen Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_CT,Morristown,Tenn.,http://www.citizentribune.com,TN
+442,The Tennessean,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_TT,Nashville,Tenn.,http://www.tennessean.com,TN
+443,The Daily News Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_DNJ,Murfreesboro,Tenn.,http://www.dnj.com,TN
+444,The Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_DT,Maryville,Tenn.,http://www.thedailytimes.com,TN
+445,News Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_KNS,Knoxville,Tenn.,http://www.knoxnews.com,TN
+446,Chattanooga Times Free Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_CTFP,Chattanooga,Tenn.,http://www.timesfreepress.com,TN
+447,The Leaf-Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_LC,Clarksville,Tenn.,http://www.theleafchronicle.com,TN
+448,The Jackson Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TN_JS,Jackson,Tenn.,http://www.jacksonsun.com,TN
+449,Standard-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_ST,San Angelo,Texas,http://www.sastandardtimes.com,TX
+450,The Monitor,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TM,McAllen,Texas,http://www.themonitor.com,TX
+451,Laredo Morning Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_LMT,Laredo,Texas,http://www.lmtonline.com,TX
+452,San Antonio Express-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_SAEN,San Antonio,Texas,http://www.expressnews.com,TX
+453,Longview News-Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_LNJ,Longview,Texas,http://www.news-journal.com,TX
+454,Killeen Daily Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_DH,Killeen,Texas,http://www.kdhnews.com,TX
+455,Times Record News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TRN,Wichita Falls,Texas,http://www.trnonline.com,TX
+456,Waco Tribune-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_WTH,Waco,Texas,http://www.wacotrib.com,TX
+457,Victoria Advocate,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_VA,Victoria,Texas,http://www.victoriaadvocate.com,TX
+458,Texarkana Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TG,Texarkana,Texas,http://www.texarkanagazette.com,TX
+459,Temple Daily Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TDT,Temple,Texas,http://www.tdtnews.com,TX
+460,Tyler Morning Telegraph,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TMT,Tyler,Texas,http://www.tylerpaper.com,TX
+461,The Beaumont Enterprise,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_BE,Beaumont,Texas,http://www.beaumontenterprise.com,TX
+462,The Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_TE,Bryan-College Station,Texas,http://www.theeagle.com,TX
+463,Austin American-Statesman,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_AAS,Austin,Texas,http://www.statesman.com,TX
+464,Abilene Reporter-News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_ARN,Abilene,Texas,http://www.reporter-news.com/,TX
+465,Houston Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_HC,Houston,Texas,http://www.chron.com,TX
+466,Corpus Christi Caller-Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_CCCT,Corpus Christi,Texas,http://www.caller.com,TX
+467,The Dallas Morning News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_DMN,Dallas,Texas,http://www.dallasnews.com,TX
+468,Galveston County Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_GCDN,Galveston,Texas,http://www.galvestondailynews.com,TX
+469,Fort Worth Star-Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_FWST,Fort Worth,Texas,http://www.star-telegram.com,TX
+470,El Paso Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_EPT,El Paso,Texas,http://www.elpasotimes.com,TX
+471,Denton Record-Chronicle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=TX_DRC,Denton,Texas,http://www.dentonrc.com,TX
+472,The Spectrum,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=UT_TS,St. George,Utah,http://www.thespectrum.com,UT
+473,Deseret News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=UT_DN,Salt Lake City,Utah,http://www.deseretnews.com,UT
+474,The Salt Lake Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=UT_SLT,Salt Lake City,Utah,http://www.sltrib.com,UT
+475,Daily Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_DPRESS,Newport News,Va.,http://www.dailypress.com,VA
+476,USA Today,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=USAT,McLean,Va.,http://www.usatoday.com,VA
+477,The News & Advance,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_NA,Lynchburg,Va.,http://www.newsadvance.com,VA
+478,Daily News-Record,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_DNR,Harrisonburg,Va.,http://www.dnronline.com/,VA
+479,The Virginian-Pilot,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_VP,Norfolk,Va.,http://www.pilotonline.com/,VA
+480,Richmond Times-Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_RTD,Richmond,Va.,http://www.timesdispatch.com/,VA
+481,The Free Lance-Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_FLS,Fredericksburg,Va.,http://www.fredericksburg.com/,VA
+482,The Winchester Star,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_WS,Winchester,Va.,http://www.winchesterstar.com,VA
+483,The News Virginian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_NV,Waynesboro,Va.,http://www.newsvirginian.com,VA
+484,The News Leader,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_NL,Staunton,Va.,http://www.newsleader.com/,VA
+485,POLITICO,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_POL,Arlington,Va.,http://www.politico.com,VA
+486,Danville Register & Bee,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_DRB,Danville,Va.,http://www.registerbee.com,VA
+487,Daily Progress,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_DP,Charlottesville,Va.,http://www.dailyprogress.com/,VA
+488,Bristol Herald Courier,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_BHC,Bristol,Va.,http://www.bristolnews.com,VA
+489,Culpeper Star-Exponent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VA_CSE,Culpeper,Va.,http://www.starexponent.com,VA
+490,Bennington Banner,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VT_BB,Bennington,Vt.,http://www.benningtonbanner.com,VT
+491,The Times Argus,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VT_TA,Barre,Vt.,http://www.timesargus.com,VT
+492,Brattleboro Reformer,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VT_BR,Brattleboro,Vt.,http://www.reformer.com,VT
+493,The Burlington Free Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VT_BFP,Burlington,Vt.,http://www.burlingtonfreepress.com,VT
+494,Rutland Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=VT_RH,Rutland,Vt.,http://www.rutlandherald.com,VT
+495,The Spokesman-Review,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_SR,Spokane,Wash.,http://www.spokesman.com,WA
+496,The News Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_NT,Tacoma,Wash.,http://www.thenewstribune.com,WA
+497,The Seattle Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_ST,Seattle,Wash.,http://www.seattletimes.com,WA
+498,Yakima Herald-Republic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_YHR,Yakima,Wash.,http://www.yakima-herald.com,WA
+499,The Columbian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_COL,Vancouver,Wash.,http://www.columbian.com,WA
+500,Kitsap Sun,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_SUN,Bremerton,Wash.,http://www.kitsapsun.com,WA
+501,The Olympian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_TO,Olympia,Wash.,http://www.theolympian.com,WA
+502,Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_TH,Everett,Wash.,http://www.heraldnet.com,WA
+503,Bellingham Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_BH,Bellingham,Wash.,http://www.bellinghamherald.com,WA
+504,Tri-City Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_TCH,Kennewick,Wash.,http://www.tri-cityherald.com,WA
+505,The Daily News,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WA_DN,Longview,Wash.,http://www.tdn.com/,WA
+506,Milwaukee Journal Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_MJS,Milwaukee,Wis.,http://www.jsonline.com,WI
+507,Marshfield News-Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_MNH,Marshfield,Wis.,http://www.marshfieldnewsherald.com,WI
+508,Herald Times Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_HTR,Manitowoc,Wis.,http://www.htrnews.com,WI
+509,Oshkosh Northwestern,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_ON,Oshkosh,Wis.,http://www.thenorthwestern.com,WI
+510,Wisconsin State Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_WSJ,Madison,Wis.,http://www.madison.com,WI
+511,Stevens Point Journal,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_SPJ,Stevens Point,Wis.,http://www.stevenspointjournal.com,WI
+512,The Wausau Daily Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_WDH,Wausau,Wis.,http://www.wausaudailyherald.com,WI
+513,Daily Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_DT,Wisconsin Rapids,Wis.,http://www.wisconsinrapidstribune.com,WI
+514,Watertown Daily Times,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_WDT,Watertown,Wis.,http://www.wdtimes.com/,WI
+515,La Crosse Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_LCT,La Crosse,Wis.,http://www.lacrossetribune.com,WI
+516,The Sheboygan Press,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_SP,Sheboygan,Wis.,http://www.sheboyganpress.com,WI
+517,Portage Daily Register,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_PDR,Portage,Wis.,http://www.wiscnews.com/portagedailyregister,WI
+518,The Reporter,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_TR,Fond du Lac,Wis.,http://www.fdlreporter.com,WI
+519,The Post-Crescent,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_PC,Appleton,Wis.,http://www.postcrescent.com,WI
+520,Green Bay Press-Gazette,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_GBP,Green Bay,Wis.,http://www.greenbaypressgazette.com,WI
+521,Baraboo News Republic,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_BNR,Baraboo,Wis.,http://www.wiscnews.com/baraboonewsrepublic,WI
+522,Beaver Dam Daily Citizen,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_BDDC,Beaver Dam,Wis.,http://www.wiscnews.com/bdc,WI
+523,Leader-Telegram,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_LT,Eau claire,Wis.,http://www.LeaderTelegram.com,WI
+524,Chippewa Herald,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WI_CH,Chippewa Falls,Wis.,http://www.chippewa.com,WI
+525,Charleston Gazette-Mail,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WV_CGM,Charleston,W. Va.,http://wvgazettemail.com,WV
+526,Times West Virginian,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WV_TWV,Fairmont,W. Va.,http://www.timeswv.com,WV
+527,Parkersburg News and Sentinel,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WV_PNS,Parkersburg,W. Va.,http://www.newsandsentinel.com,WV
+528,The Herald-Dispatch,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WV_HD,Huntington,W. Va.,http://www.herald-dispatch.com,WV
+529,The Dominion Post,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WV_DP,Morgantown,W. Va.,http://www.dominionpost.com,WV
+530,Laramie Boomerang,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WY_LB,Laramie,Wyo.,http://www.laramieboomerang.com,WY
+531,Casper Star-Tribune,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WY_CST,Casper,Wyo.,http://www.trib.com/,WY
+532,Wyoming Tribune-Eagle,/todaysfrontpages/?tfp_display=list&tfp_region=USA&tfp_sort_by=state&tfp_id=WY_WTE,Cheyenne,Wyo.,http://www.wyomingnews.com,WY
